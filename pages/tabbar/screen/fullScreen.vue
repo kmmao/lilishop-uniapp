@@ -48,13 +48,13 @@ export default {
       uni.navigateTo({
         //点击跳转到浏览器
         url:
-          "/pages/tabbar/home/web-view?src=https://pc-b2b2c.pickmall.cn/article/detail?id=1371992704333905920",
+          "/pages/tabbar/home/web-view?src=https://buyer.zmshops.xycloud.info/article/detail?id=1371992704333905920",
       });
     },
     gotoB() {
       uni.navigateTo({
         url:
-          "/pages/tabbar/home/web-view?src=https://pc-b2b2c.pickmall.cn/article/detail?id=1371779927900160000",
+          "/pages/tabbar/home/web-view?src=https://buyer.zmshops.xycloud.info/article/detail?id=1371779927900160000",
       });
     },
      //取消
